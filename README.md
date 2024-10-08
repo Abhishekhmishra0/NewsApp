@@ -1,1 +1,1 @@
-This is unde developing news read Application.
+This is under developing news read Application.
